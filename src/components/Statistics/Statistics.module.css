@@ -1,0 +1,23 @@
+
+.container {
+    margin: 20px;
+    background-color: #fff;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    display: none;
+  }
+  
+  .item {
+    font-size: 18px;
+    margin: 5px 0;
+  }
+  
+  .total {
+    font-weight: bold;
+  }
+  .negative {
+    color: red;
+  }
