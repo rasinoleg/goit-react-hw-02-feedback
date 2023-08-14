@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import css from '../Feedbak/Feedback.module.css';
 import Statistics from '../Statistics/Statistics';
-import FeedbackOptions from '../FeedbakOptions/Feedbak.Options';
+import FeedbackOptions from '../FeedbakOptions/FeedbakOptions';
 import Section from '../Section/Section';
 import Notification from 'components/Notification/Notification';
 

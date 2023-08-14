@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import css from '../FeedbakOptions/Feedbak.Options.module.css';
+import css from '../FeedbakOptions/FeedbakOptions.module.css';
 
 const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   const optionKeys = options ? Object.keys(options) : [];
